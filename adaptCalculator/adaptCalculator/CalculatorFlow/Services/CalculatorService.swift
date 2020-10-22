@@ -19,6 +19,7 @@ class CalculatorService {
         
         var calculatorStack = Stack()
         var resultStrings = [String]()
+<<<<<<< HEAD
         var buferString = Constants.empty
         
         for char in inputString {
@@ -32,6 +33,21 @@ class CalculatorService {
                     buferString = Constants.empty
                 }
                 while calculatorStack.topItem != String(Constants.openBracket) {
+=======
+        var buferString = ""
+        
+        for char in inputString {
+            
+            if char == "(" {
+                calculatorStack.push(String(char))
+            }
+            if char == ")" {
+                if !buferString.isEmpty{
+                    resultStrings.append(buferString)
+                    buferString = ""
+                }
+                while calculatorStack.topItem != "(" {
+>>>>>>> 487a61d900c5706709a95f9298d38610929ca3e2
                     resultStrings.append(calculatorStack.pop())
                 }
                 _ = calculatorStack.pop()
@@ -40,7 +56,11 @@ class CalculatorService {
                 
                 if !buferString.isEmpty{
                     resultStrings.append(buferString)
+<<<<<<< HEAD
                     buferString = Constants.empty
+=======
+                    buferString = ""
+>>>>>>> 487a61d900c5706709a95f9298d38610929ca3e2
                 }
                 
                 while calculatorStack.isNeedToPopTopElement(sign: sign) {
@@ -48,7 +68,11 @@ class CalculatorService {
                 }
                 
                 calculatorStack.push(sign.rawValue)
+<<<<<<< HEAD
             } else if char.isNumber || char == Constants.dot {
+=======
+            } else if char.isNumber || char == "." {
+>>>>>>> 487a61d900c5706709a95f9298d38610929ca3e2
                 buferString += String(char)
             }
         }
