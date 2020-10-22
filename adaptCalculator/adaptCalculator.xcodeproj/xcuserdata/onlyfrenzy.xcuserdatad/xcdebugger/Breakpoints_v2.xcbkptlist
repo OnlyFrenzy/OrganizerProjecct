@@ -14,13 +14,8 @@
             filePath = "adaptCalculator/CalculatorFlow/Services/CalculatorValidator.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-<<<<<<< HEAD
             startingLineNumber = "64"
             endingLineNumber = "64"
-=======
-            startingLineNumber = "65"
-            endingLineNumber = "65"
->>>>>>> 487a61d900c5706709a95f9298d38610929ca3e2
             landmarkName = "validateDot(inputString:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -35,18 +30,12 @@
             filePath = "adaptCalculator/CalculatorFlow/Services/CalculatorValidator.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-<<<<<<< HEAD
             startingLineNumber = "22"
             endingLineNumber = "22"
-=======
-            startingLineNumber = "23"
-            endingLineNumber = "23"
->>>>>>> 487a61d900c5706709a95f9298d38610929ca3e2
             landmarkName = "isDotYet(inputString:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
-<<<<<<< HEAD
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
@@ -63,7 +52,5 @@
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
-=======
->>>>>>> 487a61d900c5706709a95f9298d38610929ca3e2
    </Breakpoints>
 </Bucket>

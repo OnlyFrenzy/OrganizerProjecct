@@ -7,7 +7,6 @@
 
 import Foundation
 
-<<<<<<< HEAD
 
 struct Constants {
     static let openBracket: Character = "("
@@ -16,19 +15,4 @@ struct Constants {
     static let dot: Character = "."
     static let empty = ""
     static let equal = "="
-=======
-enum CalculatorValidatorReturnValues: String {
-    case zero
-    case success
-    case impossible
-    case sign
-    case number
-    case openBracket
-    case closeBracket
-    case noChangeSign
-    case yesChangeSign
-    case onlyChangeSign
-    case lastCharIsSign
-    case emptyBrackets
->>>>>>> 487a61d900c5706709a95f9298d38610929ca3e2
 }

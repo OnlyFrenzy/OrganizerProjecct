@@ -18,12 +18,8 @@
 		8ED7FC742534BF210062432D /* Stack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED7FC732534BF210062432D /* Stack.swift */; };
 		8ED7FC782534BF550062432D /* Sign.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED7FC772534BF550062432D /* Sign.swift */; };
 		8ED7FC81253F3D870062432D /* CalculatorValidator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED7FC80253F3D870062432D /* CalculatorValidator.swift */; };
-<<<<<<< HEAD
 		8ED7FC8A2541C10C0062432D /* EnumCalculatorValidatorReturnValues.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED7FC892541C10C0062432D /* EnumCalculatorValidatorReturnValues.swift */; };
 		8ED7FC8E2541C69B0062432D /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED7FC8D2541C69B0062432D /* Constants.swift */; };
-=======
-		8ED7FC8525416E620062432D /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8ED7FC8425416E620062432D /* Constants.swift */; };
->>>>>>> 487a61d900c5706709a95f9298d38610929ca3e2
 		8EF28C51252CAA84009551A2 /* CalculatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EF28C50252CAA84009551A2 /* CalculatorViewController.swift */; };
 		8EF28C56252CAADE009551A2 /* CalculatorViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8EF28C55252CAADE009551A2 /* CalculatorViewModel.swift */; };
 /* End PBXBuildFile section */
@@ -42,12 +38,8 @@
 		8ED7FC732534BF210062432D /* Stack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stack.swift; sourceTree = "<group>"; };
 		8ED7FC772534BF550062432D /* Sign.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sign.swift; sourceTree = "<group>"; };
 		8ED7FC80253F3D870062432D /* CalculatorValidator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorValidator.swift; sourceTree = "<group>"; };
-<<<<<<< HEAD
 		8ED7FC892541C10C0062432D /* EnumCalculatorValidatorReturnValues.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnumCalculatorValidatorReturnValues.swift; sourceTree = "<group>"; };
 		8ED7FC8D2541C69B0062432D /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
-=======
-		8ED7FC8425416E620062432D /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
->>>>>>> 487a61d900c5706709a95f9298d38610929ca3e2
 		8EF28C50252CAA84009551A2 /* CalculatorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorViewController.swift; sourceTree = "<group>"; };
 		8EF28C55252CAADE009551A2 /* CalculatorViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -107,12 +99,8 @@
 			isa = PBXGroup;
 			children = (
 				8ED7FC732534BF210062432D /* Stack.swift */,
-<<<<<<< HEAD
 				8ED7FC892541C10C0062432D /* EnumCalculatorValidatorReturnValues.swift */,
 				8ED7FC8D2541C69B0062432D /* Constants.swift */,
-=======
-				8ED7FC8425416E620062432D /* Constants.swift */,
->>>>>>> 487a61d900c5706709a95f9298d38610929ca3e2
 				8ED7FC772534BF550062432D /* Sign.swift */,
 			);
 			path = Models;
@@ -202,21 +190,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E5EC84B2528D97C00F0E734 /* AppDelegate.swift in Sources */,
-<<<<<<< HEAD
 				8ED7FC8E2541C69B0062432D /* Constants.swift in Sources */,
-=======
->>>>>>> 487a61d900c5706709a95f9298d38610929ca3e2
 				8ED7FC782534BF550062432D /* Sign.swift in Sources */,
 				8EF28C51252CAA84009551A2 /* CalculatorViewController.swift in Sources */,
 				8ED7FC6F2534BE3C0062432D /* CalculatorService.swift in Sources */,
 				8ED7FC742534BF210062432D /* Stack.swift in Sources */,
-<<<<<<< HEAD
 				8EC48BAF252CC0F60033828C /* CalculatorDispalyDelegate.swift in Sources */,
 				8ED7FC8A2541C10C0062432D /* EnumCalculatorValidatorReturnValues.swift in Sources */,
-=======
-				8ED7FC8525416E620062432D /* Constants.swift in Sources */,
-				8EC48BAF252CC0F60033828C /* CalculatorDispalyDelegate.swift in Sources */,
->>>>>>> 487a61d900c5706709a95f9298d38610929ca3e2
 				8E5EC84D2528D97C00F0E734 /* SceneDelegate.swift in Sources */,
 				8ED7FC81253F3D870062432D /* CalculatorValidator.swift in Sources */,
 				8EF28C56252CAADE009551A2 /* CalculatorViewModel.swift in Sources */,
