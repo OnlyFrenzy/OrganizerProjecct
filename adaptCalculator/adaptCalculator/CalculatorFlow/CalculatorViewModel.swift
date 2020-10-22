@@ -12,7 +12,6 @@ class CalculatorViewModel {
     
     var calculatorService = CalculatorService()
     var calculatorValidator = CalculatorValidator()
-//    var numberHaveDot = false
     var currentValue: String = "0" {
         didSet {
             displayDelegate?.showCurrentValue(value: currentValue)
